@@ -1,8 +1,9 @@
-Carlsbad International School
-========
+# Carlsbad International School
 
-Верстка проекта "Carlsbad International School"
+Version: 1.0
 
-| Страница                      | Ссылка                                         |
-|-------------------------------|------------------------------------------------|
-| Главная                       | http://cis.oskolsky.com/index.html             |
+Updated: 1/02/2014
+
+## Credits
+
+* @oskolsky — Senior Frontend Developer
